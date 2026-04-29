@@ -2,13 +2,14 @@
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
-  <img height="50" alt="My name is Alisa! C# Developer • Unity Enthusiast • Open to Opportunities" src="images/personal_note.svg" />
+  <h3 align="center">My name is Alisa! C# Developer • Unity Enthusiast • Open to Opportunities"</h3>
   <br />
   <br />
 
 </div>
+<p align="center">
 ## Languages & Tools 🛠️ 
-
+</p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" height="45"/>
