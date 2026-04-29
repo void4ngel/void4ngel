@@ -4,11 +4,11 @@
   <br />
   <h1 align="center">My name is Alisa! C# Developer • Unity Enthusiast • Open to Opportunities"</h1>
   <br />
-  <br />
-
 </div>
+
 <p align="center">
-<h3 align="center">Languages & Tools 🛠️</h3>
+<h2 align="center">Languages & Tools 🛠️</h2>
+<br />
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="45"/>
