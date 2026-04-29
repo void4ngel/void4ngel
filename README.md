@@ -2,7 +2,7 @@
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
-  <h1 align="center">My name is Alisa! C# Developer • Unity Enthusiast • Open to Opportunities"</h1>
+  <h1 align="center">My name is Alisa! I`m a C# Developer and Unity enthusiast. Open to opportunities!"</h1>
   <br />
 </div>
 
