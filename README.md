@@ -19,6 +19,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" height="45"/>
   <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" height="45"/>
 </p>
+  <br />
 
 <p align="center">
   Have a good day! ☀️
