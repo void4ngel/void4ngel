@@ -8,7 +8,6 @@
 
 <p align="center">
 <h2 align="center">Languages & Tools 🛠️</h2>
-<br />
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="45"/>
