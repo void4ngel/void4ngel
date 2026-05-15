@@ -4,6 +4,10 @@
   <br>
 
 <h2 align="center"><em>About  me </em></h2>
+
+<img src="https://tenor.com/ru/view/miku-hatsune-miku-channelcaststation-anamanaguchi-gif-4071236854654768172" width="250" align="right" style="margin-left: 20px;" />
+<br/>
+
 <p>
   Hello There! <em><b> I'm Alisa </b></em>, a software engineering student. Now I'm working at some little and fun projects to put in practice my knowledge about .Net ecosystem, Unity, Backend development and more. Open to new opportunities!
 </p>  
