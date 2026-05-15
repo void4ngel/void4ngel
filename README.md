@@ -1,6 +1,7 @@
 <div align="center">
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
+  <br>
 
 <img src="https://media.tenor.com/rSYM03_nRcEAAAAi/mi.gif" width="250" align="right" style="margin-left: 20px;" />
 <p>
