@@ -25,6 +25,6 @@
 
 
 <p align="center">
-    Have a good day!
+   <p>Have a good day!</p>
   <img src="https://github.com/fnky/fnky/raw/fnky/img/smile.gif" width="80"/>
 </p>
