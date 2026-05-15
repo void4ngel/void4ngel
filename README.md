@@ -22,7 +22,8 @@
 
 <br clear="both" />
 <div align="center">
-  Have a good day!<br>
+  <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<br />
   <img src="https://github.com/fnky/fnky/raw/fnky/img/smile.gif" width="80" />
 </div>
 
