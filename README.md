@@ -3,7 +3,6 @@
   <br />
   <br>
 
-<p align="center"><em>About  me </em></p>
 
 <img src="https://media.tenor.com/rSYM03_nRcEAAAAi/mi.gif" width="250" align="right" style="margin-left: 20px;" />
 <br/>
@@ -13,16 +12,9 @@
 </p>  
 </div>
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+<h2><em> Technologies </em> </h2>
 
-<p align="center">
-<h2 align="center"><em> Technologies </em> </h2>
-</p>
-<p align="center">
+<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" height="45"/>
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" height="45"/>
