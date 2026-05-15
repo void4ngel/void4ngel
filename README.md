@@ -5,7 +5,7 @@
 
 <img src="https://media.tenor.com/rSYM03_nRcEAAAAi/mi.gif" width="250" align="right" style="margin-left: 20px;" />
 <p>
-  Hello There! <em><b> I'm Alisa </b></em>, a software engineering student. Now I'm working at some little and fun projects to put in practice my knowledge about .Net ecosystem, Unity, Backend development and more. Open to new opportunities!
+  Hello there! <em><b> I'm Alisa </b></em>, a software engineering student. Now I'm working at some little and fun projects to put in practice my knowledge about .Net ecosystem, Unity, Backend development and more. Open to new opportunities!
 </p>  
 </div>
 
