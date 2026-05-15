@@ -3,14 +3,14 @@
   <br />
   <br>
 
-<h1 align="center"><em>About  me </em></h1>
+<p align="center"><em>About  me </em></p>
 
 <img src="https://media.tenor.com/rSYM03_nRcEAAAAi/mi.gif" width="250" align="right" style="margin-left: 20px;" />
 <br/>
 <br/>
-<h2>
+<p>
   Hello There! <em><b> I'm Alisa </b></em>, a software engineering student. Now I'm working at some little and fun projects to put in practice my knowledge about .Net ecosystem, Unity, Backend development and more. Open to new opportunities!
-</h2>  
+</p>  
 </div>
 
 <br/>
