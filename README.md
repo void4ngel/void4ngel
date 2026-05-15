@@ -23,8 +23,7 @@
   <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" height="45"/>
 </p>
 
-<br/>
-<p align="center">
-   <p>Have a good day!</p>
-  <img src="https://github.com/fnky/fnky/raw/fnky/img/smile.gif" width="80"/>
-</p>
+<div style="text-align: center;">
+  <p>Have a good day!</p>
+  <img src="https://github.com/fnky/fnky/raw/fnky/img/smile.gif" width="80" />
+</div>
