@@ -13,6 +13,9 @@
 </p>  
 </div>
 
+<br/>
+<br/>
+
 <p align="center">
 <h2 align="center"><em> Technologies </em> </h2>
 </p>
@@ -28,7 +31,7 @@
   <br />
 
 <p align="center">
-  Have a good day! ☀️
+  Have a good day!
 </p>
 
 <p align="center">
