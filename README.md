@@ -5,7 +5,7 @@
 
 <h2 align="center"><em>About  me </em></h2>
 
-<img src="https://media1.tenor.com/m/OH_wWVYtFCwAAAAC/miku-hatsune-miku.gif" width="250" align="right" style="margin-left: 20px;" />
+<img src="https://media.tenor.com/rSYM03_nRcEAAAAi/mi.gif" width="250" align="right" style="margin-left: 20px;" />
 <br/>
 
 <p>
