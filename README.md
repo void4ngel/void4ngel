@@ -1,13 +1,24 @@
 <div align="center">
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
-  <br />
-  <h1 align="center">My name is Alisa! I`m a C# Developer and Unity enthusiast. Open to opportunities!</h1>
-  <br />
+  <br>
+
+<h2 align="center"> <img src="/imgs/title1.png" width="25"/> <em>About  me </em></h2>
+
+<img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="250" align="right" style="margin-left: 20px;" />
+<br/>
+
+<p>
+  Hello There! <em><b> I'm Alisa </b></em>, a software engineering student. Now I'm working at some little and fun projects to put in practice my knowledge about .Net ecosystem, Unity, Backend development and more. Open to new opportunities!
+</p>
+
+
+<br/>
+  
 </div>
 
 <p align="center">
-<h2 align="center">Languages & Tools 🛠️</h2>
+<h2 align="center"><em> Technologies </em> </h2>
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="45"/>
