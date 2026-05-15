@@ -4,8 +4,8 @@
   <br>
 
 <h2 align="center"><em>About  me </em></h2>
-<div class="tenor-gif-embed" data-postid="4071236854654768172" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/miku-hatsune-miku-channelcaststation-anamanaguchi-gif-4071236854654768172">Miku Hatsune Miku GIF</a>from <a href="https://tenor.com/search/miku-gifs">Miku GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-<img src="https://tenor.com/ru/view/miku-hatsune-miku-channelcaststation-anamanaguchi-gif-4071236854654768172" />
+
+<img src="https://media1.tenor.com/m/OH_wWVYtFCwAAAAC/miku-hatsune-miku.gif" width="250" align="right" style="margin-left: 20px;" />
 <br/>
 
 <p>
