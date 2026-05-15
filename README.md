@@ -12,8 +12,7 @@
 </p>  
 </div>
 
-<h2><em> Technologies </em> </h2>
-
+<p><em> Technologies </em> <p>
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" height="45"/>
